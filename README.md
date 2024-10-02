@@ -11,7 +11,7 @@ I am a Student at LAB University of Applied Sciences. I use GitHub for study mat
 
 
 ### My Linkedin
-[My Linkedin](www.linkedin.com/in/tong-lin-55b2491b3)
+[My Linkedin](https://www.linkedin.com/in/tong-lin-55b2491b3/)
 
 <!---
 ALVINLIN0508/ALVINLIN0508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
