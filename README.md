@@ -1,6 +1,6 @@
 # Hi, I'm Alvin 👋
 
-🎓 I'm studying **Industrial Information Technology** at **LAB University of Applied Sciences** in Finland, and I expect to graduate in **December 2026**.
+🎓 I'm studying **Industrial Information Technology** at **LAB University of Applied Sciences** in Finland.
 
 I enjoy learning how software, networks, and hardware work together. I use GitHub to keep track of my coursework, small experiments, and projects as I improve my programming skills.
 
