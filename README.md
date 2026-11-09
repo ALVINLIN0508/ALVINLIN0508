@@ -17,8 +17,8 @@ I enjoy learning how software, networks, and hardware work together. I use GitHu
 | --- | --- |
 | [Implementing IoT Pipeline / Project Collection](https://github.com/ALVINLIN0508/Implementing-IoT-Pipeline) | Coursework and experiments in machine learning, Linux, and full-stack development, including an AI-assisted internship search platform. |
 | [DevOps Demo](https://github.com/ALVINLIN0508/DevOps_DEMO) | Practising Git, README documentation, and publishing a simple page with GitHub Pages. |
-| [DevOps Test](https://github.com/ALVINLIN0508/DevOps_test) | Exercises related to software testing and DevOps. |
-| [Light Controller](https://github.com/ALVINLIN0508/light_controller) | A small hardware/software learning project. |
+
+
 
 ### 🔧 A little about me
 
